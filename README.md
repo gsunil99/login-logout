@@ -1,6 +1,6 @@
 # Login-Logout [![GitHub stars](https://img.shields.io/github/stars/gsunil99/login-logout?style=social)](https://github.com/login?return_to=%2Fgsunil99%login-logout) ![GitHub forks](https://img.shields.io/github/forks/gsunil99/login-logout?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/gsunil99/login-logout) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gsunil99/login-logout)
 
-## This repo helps to implement login and logout feature for an app with techstack node.js, express.js, ejs, jwt toke authentication
+## This repo helps to implement login and logout feature for an app with techstack node.js, express.js, ejs, jwt token authentication
 > Backend:- Node, Express, Javascript, MongoDB.
 
 > Frontend:- HTML, CSS, Bootstrap.
