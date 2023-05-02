@@ -5,7 +5,6 @@
 
 > Frontend:- HTML, CSS, Bootstrap.
 
-> Third party modules:- TinyMCE, beautifulsoup4, Pillow.
 ## How to run the project!
 ### - Clone the project
 > ``` git clone  "https://github.com/gsunil99/login-logout.git" ```
